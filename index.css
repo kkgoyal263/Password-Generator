@@ -1,0 +1,46 @@
+body{
+    background: #1C2430;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 70px auto auto 30px;
+}
+h1{
+    font-weight: bold;
+    margin-bottom: 10;
+}
+#gen{
+    color: white;
+}
+#pass{
+    color: #4AD684;
+}
+p{
+    color: #b7bfcd;
+    margin-top: 0;
+}
+#generatebtn{
+    background: #12B075;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 9px 11px;
+}
+#generatebtn:hover{
+    background: #269654;
+    cursor: pointer;
+}
+label{
+    color: azure;
+}
+.passwordbtn{
+    margin: 0 auto;
+    width: 180px;
+    height: 35px;
+    padding: 9px 0px;
+    background: #232F40;
+    color: #81D5AD;
+    border: none;
+    border-radius: 5px;
+}
+hr{
+    margin: 20px 10px;
+}
